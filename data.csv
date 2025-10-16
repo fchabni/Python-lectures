@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,Math_Score,Physics_Score,AI_Score,Attendance_Percentage
+101,Ali,22,Male,Computer Science,85,78,90,96
+102,Sara,21,Female,Mathematics,92,88,84,98
+103,Karim,23,Male,Physics,75,85,79,93
+104,Lina,20,Female,Computer Science,88,90,92,99
+105,Amine,24,Male,Engineering,81,74,77,95
+106,Nour,22,Female,Mathematics,95,91,89,100
+107,Samir,23,Male,Engineering,70,72,68,90
+108,Farah,21,Female,Physics,89,85,87,97
+109,Hakim,25,Male,Computer Science,78,80,82,91
+110,Leila,22,Female,Engineering,84,79,88,94
